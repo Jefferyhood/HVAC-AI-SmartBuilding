@@ -62,7 +62,7 @@ cd HVAC-AI-SmartBuilding
 2. Install dependencies
 pip install pandas numpy matplotlib scikit-learn streamlit pyarrow
 3. Run the dashboard
-streamlit run app.py
+"streamlit run app.py"
 4. Open in browser
 http://localhost:8501
 📊 Example Use Case
