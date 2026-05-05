@@ -52,7 +52,10 @@ Jupyter Notebook
 ├── smartbuilding_ai.ipynb     # Data analysis & model training
 ├── hvac_data_cleaned.parquet  # Dataset
 ├── README.md                  # Project documentation
+
+
 ▶️ How to Run the Project
+
 1. Clone the repository
 git clone https://github.com/Jefferyhood/HVAC-AI-SmartBuilding.git
 cd HVAC-AI-SmartBuilding
